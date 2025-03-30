@@ -5,8 +5,8 @@ using System.Text;
 using Microsoft.SemanticKernel.Connectors.Ollama;
 using OllamaSharp;
 
-var modelId = "phi4-mini";
-var uri = "http://localhost:11434/";
+var modelId = "llama3.2";
+var uri = "http://localhost:8081/";
 
 
 // create client
